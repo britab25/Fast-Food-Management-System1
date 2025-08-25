@@ -1,0 +1,6 @@
+@IntegrationLayer_HostAddress = http://localhost:5119
+
+GET {{IntegrationLayer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
